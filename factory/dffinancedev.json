@@ -1,0 +1,15 @@
+{
+	"name": "dffinancedev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61e78b3c-cbc0-44ec-946e-33d8bb7fc4a7",
+		"tenantId": "73585b7b-dbc1-4688-bfcb-c0310e254f31"
+	}
+}
